@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arideep Dutta
 - 👀 I’m interested in ... Competitive Programming, Machine Learninig, Artificial Intelligence, IoT & Deep Learning.
-- 🌱 I’m currently a Machine Learning Engineer at TCS.
+- 🌱 I’m currently a Software Development Engineer at Amazon
 - 💞️ I’m looking to collaborate on ... Software Devalopment Enginerring Role
 - 📫 How to reach me ... Linkdind Profile - https://www.linkedin.com/in/arideep-dutta-b870b9170/
 
